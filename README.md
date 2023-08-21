@@ -31,6 +31,7 @@ Removing Outliers from dataset:
 
 
 And Here Dashboard Using Excel after removing and cleaning missing and outliers data :
+![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/88325fd2-b1db-4c25-a1f0-1ecfff68f2a7)
 
 
 
