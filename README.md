@@ -28,11 +28,13 @@ the code below drops the outliers by removing all the values that are below the 
 Removing Outliers from dataset in Excel :
 
 
-
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/687f0ce4-ebdb-4d1d-9e4f-0a4e65f39b6b)
 
 
 And Here Dashboard Using Excel after removing and cleaning missing and outliers data :
+
+
+
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/88325fd2-b1db-4c25-a1f0-1ecfff68f2a7)
 
 
