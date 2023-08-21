@@ -1,5 +1,14 @@
 # Titanic-Machine-Learning-from-Disaster
 Clean a dataset by removing missing values and outliers and Calculate summary statistics (mean, median, mode, standard deviation) for a dataset
+
+Outliers are values in data that differ extremely from a major sample of the data, the presence of outliers can significantly reduce the performance and accuracy of a predictable model.
+
+The measure of how good a machine learning model depends on how clean the data is, and the presence of outliers may be as a result of errors during the collection of data, but some of this extreme values may be valid and legitimate.for example, the comparison of the goal scores of Ronaldo or Messi with other average players ,the earnings of the top actors like Dwayne Johnson and Ryan Reynolds with otherle actors, we can see clearly it is incomparable and the margin will be very significant.
+
+so during data analysis, this score and earnings may appear as an outlier, that is why there is a need for broader and extensive analysis on the data to figure out and differentiate extreme values from outliers.
+
+we are going to use the titanic dataset to identify, clean, and replace outliers. now, let's explore our data and do some basic data preprocessing.
+
 Boxplot visualization outliers :
 
 
