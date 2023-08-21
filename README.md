@@ -16,10 +16,22 @@ Boxplot visualization outliers :
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/f9532fed-363e-4b9b-9335-15ae226e6f1d)
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/cb8da09f-b76f-4390-b416-ea40ed05957a)
 
+Skewness
+the skewness value should be within the range of -1 to 1 for a normal distribution, any major changes from this value may indicate the presence of outliers.
 
 
+Flooring And Capping
+in this quantile-based technique, we will do the flooring(e.g 25th percentile) for the lower values and capping(e.g for the 75th percentile) for the higher values. These percentile values will be used for the quantile-based flooring and capping.
+
+the code below drops the outliers by removing all the values that are below the 25th percentile and above the 75th percentile of the ‘Fare’ variable.
 
 Removing Outliers from dataset:
 
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/687f0ce4-ebdb-4d1d-9e4f-0a4e65f39b6b)
+
+
+And Here Dashboard Using Excel after removing and cleaning missing and outliers data :
+
+
+
 
