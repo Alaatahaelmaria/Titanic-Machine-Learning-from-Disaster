@@ -25,13 +25,15 @@ in this quantile-based technique, we will do the flooring(e.g 25th percentile) f
 
 the code below drops the outliers by removing all the values that are below the 25th percentile and above the 75th percentile of the ‘Fare’ variable.
 
-Removing Outliers from dataset in Excel :
+Removing Outliers from dataset  :
 
 
 ![image](https://github.com/Alaatahaelmaria/Titanic-Machine-Learning-from-Disaster/assets/72944935/687f0ce4-ebdb-4d1d-9e4f-0a4e65f39b6b)
 
 
 And Here Dashboard Using Excel after removing and cleaning missing and outliers data :
+
+
 
 
 
